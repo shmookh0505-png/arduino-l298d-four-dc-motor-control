@@ -118,4 +118,3 @@ Possible improvements for this project:
 
 Shmokh Waleed
 
-Robotics & Embedded Systems Projects
